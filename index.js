@@ -76,11 +76,11 @@ switch(player2)
 
 if(player2>player1)
 {
-    document.querySelector("h1").innerHTML="Player 2 Win";
+    document.querySelector("h1").innerHTML="Player 2 Win 🏁 ";
 }
 else if(player1>player2)
 {
-    document.querySelector("h1").innerHTML="Player 1 Win";
+    document.querySelector("h1").innerHTML="🏁 Player 1 Win";
 }
 else if(player1===player2)
 {
